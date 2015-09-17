@@ -1,0 +1,7 @@
+li #login{
+    text-align: center;
+}
+
+ul .dropdownmenu{
+    width: 500px;
+}
